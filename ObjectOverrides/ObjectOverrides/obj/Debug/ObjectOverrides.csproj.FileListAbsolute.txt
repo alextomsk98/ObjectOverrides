@@ -1,0 +1,6 @@
+I:\трпо практика\ObjectOverrides\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.exe.config
+I:\трпо практика\ObjectOverrides\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.csprojResolveAssemblyReference.cache
+I:\трпо практика\ObjectOverrides\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.exe
+I:\трпо практика\ObjectOverrides\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.pdb
+I:\трпо практика\ObjectOverrides\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.exe
+I:\трпо практика\ObjectOverrides\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.pdb
